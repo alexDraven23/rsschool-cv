@@ -8,26 +8,30 @@ Student of RSFE22Q2
 
 ## Education
 
-*Undergraduate degree*                 *Postgraduate Degree*
+***Undergraduate degree***
 
-Belarus State University                Belarus State University
+* Belarus State University
+* Economic Faculty
+* Corporate Finance
+* 2014 - 2018
 
-Economic Faculty                        Economic Faculty
+***Postgraduate Degree***
 
-Corporate Finance                       Economic Theory
+* Belarus State University
+* Economic Faculty
+* Economic Theory
+* 2018 - 2019
 
-2014 - 2018                             2018 - 2019
+## Skills
 
-### Skills
+1. HTML/ CCS
+2. JavaScript
 
-HTML/ CCS
-JavaScript
-
-### Career Objective
+## Career Objective
 
 My career objective now is to to become a junior FE developer. I want to change my specialization, so i starting learning course Front-end JavaScript in RS School. I think I'm easy to learn, sociable, responsible.
 
-### Work Experience
+## Work Experience
 
 Junior research assistant
 
