@@ -2,6 +2,8 @@
 
 Student of RSFE22Q2
 
+![Photo](photo.png)
+
 * alexchenc96@yandex.by
 * Minsk, Belarus
 * github.com/alexDraven23
@@ -21,6 +23,10 @@ Student of RSFE22Q2
 * Economic Faculty
 * Economic Theory
 * 2018 - 2019
+
+***English***
+
+* Pre-Intermediate Level (A2).
 
 ## Skills
 
