@@ -2,7 +2,7 @@
 
 Student of RSFE22Q2
 
-![Photo](./assets/image/photo.png)
+![Photo](photo.png)
 
 
 * alexchenc96@yandex.by
