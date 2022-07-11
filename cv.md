@@ -2,7 +2,8 @@
 
 Student of RSFE22Q2
 
-![Photo](photo.png)
+![Photo](https://github.com/alexDraven23/rsschool-cv/blob/a7b4956d5ffb1bf46012dea9df61eb3f5dd8f60e/assets/image/photo.png)
+
 
 
 * alexchenc96@yandex.by
