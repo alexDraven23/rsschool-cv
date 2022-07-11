@@ -1,0 +1,161 @@
+body {
+  font-family: 'Montserrat';
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: whitesmoke;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+  margin: 0 0 0 10px;
+}
+
+a:hover {
+  background-size: 100% 2px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url("assets/fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
+  font-weight: normal;
+}
+
+.header {
+  background-color: rgba(47, 56, 136, 0.205);
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(20, 20, 90);
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: rgb(20, 20, 90);
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: .3s;
+  color: rgb(0, 0, 0) !important;
+  text-decoration: none;
+}
+
+.img-title {
+  width: 200px;
+  height: 200px;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+  padding: 10px;
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: rgb(20, 20, 90);
+  padding: 10px;
+  border: 5px rgba(204, 22, 22, 0.452);
+  border-bottom-style: inset;
+  width: 50%;
+}
+
+.section-main-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: rgb(177, 77, 168);
+}
+
+.section-item a {
+  color: rgb(20, 20, 90);
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.section-item a:hover {
+  color: #4d2323;
+}
+
+.section-title-list {
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: rgb(20, 20, 90);
+}
+
+.section-code {
+  width: 50%;
+  background-color: blanchedalmond;
+}
+
+.p-section-main-title {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.footer {
+  background-color: rgba(47, 56, 136, 0.205);
+}
+
+.footer-img {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin: 10px 20px 0 0;
+}
+
+.footer-block {
+  float: left;
+  margin: 0 0 0 1em;
+  color: rgb(0, 0, 0) !important;
+  text-decoration: none;
+}
+
+.footer-block a {
+  color: rgb(0, 0, 0) !important;
+  text-decoration: none;
+}
+
+
