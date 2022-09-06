@@ -1,6 +1,6 @@
 # **Alexander Chentsov**
 
-Student of RSFE22Q2
+Student of JavaScript/Front-end 2022Q3
 
 ![Photo](https://github.com/alexDraven23/rsschool-cv/raw/gh-pages/assets/image/photo.png)
 
